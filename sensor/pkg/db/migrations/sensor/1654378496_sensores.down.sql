@@ -1,0 +1,6 @@
+
+BEGIN;
+
+	DROP TABLE sensores;
+
+COMMIT;
